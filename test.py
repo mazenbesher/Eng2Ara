@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 import unittest, csv
 from main import load_letters, eng2ara
 
